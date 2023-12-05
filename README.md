@@ -1,1 +1,1 @@
-Attempt to get workflow to work
+This is my GitHub repository for the AWS Cloud Resumé Challenge.
