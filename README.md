@@ -1,12 +1,12 @@
 # AWS Cloud Resume Challenge
 This is my attempt at the Cloud Resume Challenge in AWS. Created by Forrest Brazeal, this multi-step project is an application of skills learned in cloud computing, as well as a great learning opportunity for those who are who are interested in cloud computing regardless of background.
 
-## [!https://prateeknarayanan.com] (https://prateeknarayanan.com)
+## https://prateeknarayanan.com
 
 ## Project Components
 ### 1. Certifications
-![aws-certified-cloud-practitioner](https://images.credly.com/size/250x250/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-![aws-certified-developer-associate](https://images.credly.com/size/250x250/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
+![aws-certified-cloud-practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+![aws-certified-developer-associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 ### 2. HTML
 For the HTML I used a free sample site template from [HTML5UP](https://html5up.net/). 
 ### 3. CSS
