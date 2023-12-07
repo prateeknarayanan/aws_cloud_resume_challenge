@@ -5,8 +5,8 @@ This is my attempt at the Cloud Resume Challenge in AWS. Created by Forrest Braz
 
 ## Project Components
 ### 1. Certifications
-![aws-certified-cloud-practitioner](/img/aws-certified-cloud-practitioner.png)
-![aws-certified-developer-associate](/img/aws-certified-developer-associate.png)
+![aws-certified-cloud-practitioner](/front-end/images/aws-certified-cloud-practitioner.png)
+![aws-certified-developer-associate](/front-end/images/aws-certified-developer-associate.png)
 ### 2. HTML
 For the HTML I used a free sample site template from [HTML5UP](https://html5up.net/).
 ### 3. CSS
@@ -35,4 +35,4 @@ For CI/CD, I chose to use GitHub Actions. Through Actions, I set up a workflow i
 --- to be added ---
 
 ## Architecture Diagram
-![aws-architecture-diagram](/img/Architecture%20Diagram.png)
+![aws-architecture-diagram](/Architecture%20Diagram.png)
