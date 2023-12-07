@@ -5,8 +5,8 @@ This is my attempt at the Cloud Resume Challenge in AWS. Created by Forrest Braz
 
 ## Project Components
 ### 1. Certifications
-![aws-certified-cloud-practitioner](/img/aws-certified-cloud-practitioner.png=100x100)
-![aws-certified-developer-associate](/img/aws-certified-developer-associate.png=100x100)
+![aws-certified-cloud-practitioner](/img/aws-certified-cloud-practitioner.png)
+![aws-certified-developer-associate](/img/aws-certified-developer-associate.png)
 ### 2. HTML
 For the HTML I used a free sample site template from [HTML5UP](https://html5up.net/).
 ### 3. CSS
