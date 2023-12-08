@@ -32,7 +32,7 @@ To store the code, I chose Git and GitHub for version control and hosting the co
 ### 13. CI/CD
 For CI/CD, I chose to use GitHub Actions. Through Actions, I set up a workflow in YAML to automatically sync the frontend files with my S3 bucket every time changes are pushed.
 ### 14. Blog Post
---- to be added ---
+You can feel free to check out my blog post [here](https://medium.com/@prateeknarayanan/my-experience-with-the-cloud-resume-challenge-06adf3801fae)
 
 ## Architecture Diagram
 ![aws-architecture-diagram](/Architecture%20Diagram.png)
